@@ -1,12 +1,12 @@
 aliases: []
-creation_timestamp: 1729610518660
+creation_timestamp: 1729694940952
 current_stage: None
 description: null
-last_updated_timestamp: 1729610518660
+last_updated_timestamp: 1729694940952
 name: iris_lr_model
-run_id: b411dd23847640d38c17b64122e0f3bb
+run_id: 472bf4b9b84b482f86792a47e71f8d6d
 run_link: null
-source: file:///c:/Users/jules/OneDrive%20-%20HEC%20Paris/Documents/Master/X-HEC%20Data%20Science%20Master/Year%202%20-%20HEC/Courses/ML%20Ops/xhec-mlops-crashcourse-2024/lessons/01-model-and-experiment-management/mlruns/469824777349738203/b411dd23847640d38c17b64122e0f3bb/artifacts/models
+source: file:///c:/Users/jules/OneDrive%20-%20HEC%20Paris/Documents/Master/X-HEC%20Data%20Science%20Master/Year%202%20-%20HEC/Courses/ML%20Ops/xhec-mlops-crashcourse-2024/lessons/01-model-and-experiment-management/mlruns/419194088729973355/472bf4b9b84b482f86792a47e71f8d6d/artifacts/models
 status: READY
 status_message: null
 user_id: null
