@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jules/OneDrive%20-%20HEC%20Paris/Documents/Master/X-HEC%20Data%20Science%20Master/Year%202%20-%20HEC/Courses/ML%20Ops/xhec-mlops-crashcourse-2024/lessons/01-model-and-experiment-management/mlruns/419194088729973355/472bf4b9b84b482f86792a47e71f8d6d/artifacts
+end_time: 1729694940815
+entry_point_name: ''
+experiment_id: '419194088729973355'
+lifecycle_stage: active
+run_id: 472bf4b9b84b482f86792a47e71f8d6d
+run_name: secretive-croc-3
+run_uuid: 472bf4b9b84b482f86792a47e71f8d6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729694935919
+status: 3
+tags: []
+user_id: jules

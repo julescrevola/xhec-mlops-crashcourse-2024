@@ -1,6 +1,11 @@
+from pathlib import Path
+
 # MODELS
 MODEL_VERSION = "0.0.1"
-PATH_TO_PIPELINE = ...  # TODO: fill in the path to the pipeline
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+PATH_TO_PREPROCESSOR = str(PROJECT_ROOT / f"web_service/local_models/dv__v{MODEL_VERSION}.pkl")
+PATH_TO_MODEL = str(PROJECT_ROOT / f"web_service/local_models/model__v{MODEL_VERSION}.pkl")
+CATEGORICAL_VARS = ["PULocationID", "DOLocationID", "passenger_count"]
 
 
 # MISC

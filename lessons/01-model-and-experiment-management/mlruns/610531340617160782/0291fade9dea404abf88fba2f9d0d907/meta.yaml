@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jules/OneDrive%20-%20HEC%20Paris/Documents/Master/X-HEC%20Data%20Science%20Master/Year%202%20-%20HEC/Courses/ML%20Ops/xhec-mlops-crashcourse-2024/lessons/01-model-and-experiment-management/mlruns/610531340617160782/0291fade9dea404abf88fba2f9d0d907/artifacts
+end_time: 1729695010238
+entry_point_name: ''
+experiment_id: '610531340617160782'
+lifecycle_stage: active
+run_id: 0291fade9dea404abf88fba2f9d0d907
+run_name: wistful-conch-830
+run_uuid: 0291fade9dea404abf88fba2f9d0d907
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729694975650
+status: 3
+tags: []
+user_id: jules

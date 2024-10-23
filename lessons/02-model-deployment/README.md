@@ -61,7 +61,7 @@ In this first part, you will create a simple application that runs locally on yo
 
 Starting by defining your inputs and outputs is often a good idea in app development because it will guide the decisions you make in designing your software.
 
-Create a `pydantic` model that specifies the input the user should provide. *See an example [here](https://github.com/artefactory/xhec-mlops-crashcourse-2023/blob/feature-deployment/lessons/02-model-deployment/fast_api_tutorial/fast_api_tutorial.md#create-a-post-operation)*
+Create a `pydantic` model that specifies the input the user should provide. *See an example [here](https://github.com/artefactory/xhec-mlops-crashcourse-2024/blob/master/lessons/02-model-deployment/fast_api_tutorial/fast_api_tutorial.md)*
 
 > *Do you expect a single value or a list of values?*
 
@@ -95,7 +95,7 @@ uvicorn main:app --reload
 
 > The `reload` option here is used to help you debug your app. Every time the code changes, the app will be reloaded
 
-You can test your app by using the automatic documentation `FastAPI` generated for you, which can be accessed at [http://localhost:8000/docs](http://localhost:8000/docs).
+You can test your app by using the automatic documentation `FastAPI` generated for you, which can be accessed at [http://localhost:8080/docs](http://localhost:8080/docs).
 
 ![Docs](./images/docs_example.png)
 
